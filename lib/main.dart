@@ -41,7 +41,7 @@ class EgipturaApp extends StatelessWidget {
           borderSide: const BorderSide(color: Color(0xFFBFA463)),
         ),
       ),
-    );
+    );   
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
